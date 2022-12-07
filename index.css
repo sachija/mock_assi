@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(43, 40, 40);
+    margin-left: 10px;
+}
+
+.header{
+    width: 1470px;
+    height: 100px;
+    background-color: orange;
+    color: blue;
+    margin-bottom: 70px;
+  
+}
+.head{
+    padding-left: 630px;
+    padding-top: 20px;
+}
+.nav{
+    height: 350px;
+    width: 300px;
+    background-color: orange;
+    color: blue;
+
+    
+}
+.heading{
+    padding-left: 90px;
+    padding-top: 150px;
+    
+}
+.frame{
+    
+    margin-top: -370px;
+    height: 360px;
+    width: 750px;
+    margin-left: 350px;
+ 
+}
+.boy{
+    
+        height: 350px;
+        width: 260px;
+        background-color: orange;
+        margin-left: 1200px;
+        margin-top: -370px;;
+    
+        /* padding: 30px; */
+    } 
+
+    .boyl{
+        height:300px ;
+        width:260px ;
+        padding-top: 25px;
+        padding-bottom: 25px;
+
+    }
+    .footer{
+        width: 1470px;
+        height: 100px;
+        background-color: orange;
+        color: blue; 
+        margin-top: 70px;
+    }
+    .foot{
+        padding-left: 650px;
+        padding-top: 26px;
+    }
